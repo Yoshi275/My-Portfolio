@@ -8,8 +8,8 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-* [About the Project](#about-the-project)
-  * [Built With](#built-with)
+* [Personal Info](#about-the-project)
+  * [List of Projects](#built-with)
 * [Contributing](#contributing)
 * [License](#license)
 * [Contact](#contact)
