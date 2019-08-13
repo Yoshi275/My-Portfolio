@@ -23,6 +23,8 @@ This repository is my portfolio website
 
 ## List of the Project 
 
+  - TeleChamp 
+  - Maze Solver
   - POV clock 
   - Human Detector (ultrasonic)
   
