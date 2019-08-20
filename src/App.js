@@ -9,20 +9,12 @@ class App extends Component {
       <div className="App">
 
 
-        <Container >
+        <Container className="App-header">
+          <p className="App-intro">Pattarathon Watanakij</p>
 
+          <p className="App-intro">Software Engineer</p>
         </Container>
-        <Segment basic>
-        <Grid divided='vertically' className="App-header">
-          <Grid.Row columns={1}>
-            <Grid.Column className="Quote-intro">
-                  <Header className="App-intro">Sic Parvis Magna</Header>
-            </Grid.Column>
-          </Grid.Row>
-        </Grid>
-          <Divider/>
-        <Header className="App-subintro"> Greatness From Small Beginnings</Header>
-        </Segment>
+
 
       </div>
     );
@@ -30,6 +22,21 @@ class App extends Component {
 }
 
 export default App;
+//     <Segment basic>
+// </Segment>
+// <Grid.Row columns={1}>
+//   <Grid.Column className="Quote-intro">
+
+//   </Grid.Column>
+// </Grid.Row>
+// <Grid.Row columns={1}>
+//   <Grid.Column>
+
+//   </Grid.Column>
+// </Grid.Row>
+
+  // <a href="https://www.freepik.com/free-photos-vectors/background">Background vector created by rawpixel.com - www.freepik.com</a>
+
 // <button class="ui primary button">Save</button>
 // <div className="App-header">
 //   // <img src={logo} className="App-logo" alt="logo" />

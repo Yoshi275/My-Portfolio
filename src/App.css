@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  /* background-image: url("../public/hex-bg.jpg"); */
 }
 
 .App-logo {
@@ -8,23 +9,24 @@
 }
 
 .App-header {
-  color: white;
+  /* color: white; */
   /* background-color: #222; */
-  height: 150px;
+  height: 350px;
   padding: 20px;
 
 }
 
 .App-intro {
-  font-size: 80px !important;
-  font-family: 'Lexend Deca', sans-serif;
-  margin-top: 15px !important;
+  font-size: 80px;
+  /* font-family: 'Lexend Deca', sans-serif ; */
+  font-family: "Abril Fatface", cursive;
+  margin-top: 15px ;
 }
 
 .App-subintro{
-  font-size: 80px;
-  font-family: 'Lexend Deca', sans-serif;
-  margin-top: 15px ;
+  font-size: 40px;
+  font-family: 'Abril Fatface', cursive !important;
+  /* margin-top: 15px ; */
 }
 
 
