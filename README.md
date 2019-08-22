@@ -27,6 +27,7 @@ This repository is my portfolio website
   - Maze Solver
   - POV clock 
   - Human Detector (ultrasonic)
+ 
   
 ### Programming Language that I capable of
 
@@ -35,9 +36,10 @@ This repository is my portfolio website
 * Flutter
 * R
 * Ruby on Rails
+* Java 
 * Java (Android)
 * Javascript (NodeJs, ReactJs , VueJs, jQuery)
-* PHP
+* PHP (Including Yii framework and CodeIgniter)
 * Python 
 * Objective-C
 * goLang
@@ -56,6 +58,15 @@ This repository is my portfolio website
 * [Firebase](https://firebase.google.com)
 * [Jenkins](https://jenkins.io)
 * [Tensorflow](https://tensorflow.org/)
+* [Gitlab](https://gitlab.com)
+* [Github](https://github.com)
+
+### Hobby (Current Into)
+
+* [Pentesting]
+* [Embedded Projects]
+* [Machine Learning]
+* [Data science]
 
 
 <!-- CONTACT -->
