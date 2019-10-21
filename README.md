@@ -19,7 +19,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This repository is my portfolio website
+This repository is my portfolio detail since my website might not be able to cover it all. 
 
 ## List of the Project 
 
